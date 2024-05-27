@@ -456,14 +456,5 @@ screen and (min-width: 320px) and (max-width: 766px) {
         width: 320px;
     }
 
-    .footer-menu {
-        display: flex;
-        flex-wrap: wrap;
-        flex-direction: column;
-        margin-left: auto;
-        margin-right: auto;
-        gap: 20px;
-    }
-
 
 }
