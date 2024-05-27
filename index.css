@@ -312,7 +312,6 @@ screen and (min-width: 767px) and (max-width: 1556px) {
 
     .left-section {
         text-align: center;
-        width: 80%;
     }
 
     .right-section {
@@ -391,6 +390,9 @@ screen and (min-width: 320px) and (max-width: 766px) {
 
     .left-section {
         text-align: center;
+        justify-content: center;
+        align-items: center;
+        overflow: hidden;
     }
 
     .right-section {
