@@ -259,7 +259,7 @@ body {
     margin-top: 20px;
     display: flex;
     justify-content: center;
-    align-items: flex-start;
+    align-items: center;
     align-content: center;
     gap: 75px;
 }
@@ -390,7 +390,11 @@ screen and (min-width: 320px) and (max-width: 766px) {
 
     .left-section {
         text-align: center;
-        width: 320px;
+
+    }
+
+    .introduction {
+        width: 330px;
     }
 
     .right-section {
