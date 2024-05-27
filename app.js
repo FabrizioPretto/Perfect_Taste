@@ -41,7 +41,7 @@ function startCountdown() {
 }
 
 
-async function dropDown() {
+function dropDown() {
 
     const faqItems = document.getElementsByClassName('faq-item');
     const dropDownButtons = document.getElementsByClassName('drop-down');
