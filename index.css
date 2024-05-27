@@ -379,7 +379,6 @@ screen and (min-width: 767px) and (max-width: 1556px) {
 screen and (min-width: 320px) and (max-width: 766px) {
     .header nav {
         display: none;
-        /* Oculta el menú de navegación */
     }
 
     .first-content {
@@ -419,7 +418,6 @@ screen and (min-width: 320px) and (max-width: 766px) {
     .header .menu-btn {
         visibility: collapse;
         display: block;
-        /* Muestra el botón del menú */
     }
 
 
