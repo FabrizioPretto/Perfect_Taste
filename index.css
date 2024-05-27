@@ -312,7 +312,7 @@ screen and (min-width: 767px) and (max-width: 1556px) {
 
     .left-section {
         text-align: center;
-        overflow: hidden;
+        width: 80%;
     }
 
     .right-section {
